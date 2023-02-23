@@ -10,7 +10,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .container{
-    padding-top: 150px;
+    padding-top: 100px;
 }
 
 .btn-nxt-person{
@@ -58,4 +58,9 @@ h1,h2,h3,h4,h5,h6 {
     background-color: #FFFFFF;
     border-bottom-right-radius: 20px;
     height: 40px;
+}
+
+#people-data{
+    min-height: 230px;
+    max-height: 660px;
 }

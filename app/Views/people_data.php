@@ -22,7 +22,7 @@
                 <button type="button" class="btn btn-warning btn-nxt-person rounded-pill float-end" id="add_person">NEXT PERSON</button>
             </div>
         </div>
-        <div class="row" id="people-data">
+        <div class="row overflow-scroll" id="people-data">
             
         </div>
         <div class="row mt-3 text-center text-light">
