@@ -8,10 +8,10 @@ The application was built on top of [Codeigniter 4](https://codeigniter.com/).
 
 ## Installation & updates
 
-Navigate to your webroot eg:- `C:\xampp\htdocs\`.
-Clone the repository with `git clone https://github.com/keerthivasansekar/people-data.git`.
-Navigate to `people-data`.
-`composer update` whenever there is a new release of the application.
+- Navigate to your webroot eg:- `C:\xampp\htdocs\`.
+- Clone the repository with `git clone https://github.com/keerthivasansekar/people-data.git`.
+- Navigate to `people-data`.
+- `composer update` whenever there is a new release of the application.
 
 ## Setup
 
