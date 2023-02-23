@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Roboto:wght@400;500&display=swap');
+
+body{
+    background-color: #47afe7;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    padding-top: 150px;
+}
+
+.btn-nxt-person{
+    align-content: center;
+    background-color: #f49c63;
+    border-color: #f49c63;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+}
+
+.btn-nxt-person:hover{
+    background-color: #d48957;
+    border-color: #d48957;
+    color: #FFFFFF;
+}
+
+.people-data-container{
+    height: 80px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.people-data-number{
+    background-color: #6dce8c;
+    height: 80px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-top: 16px;
+    padding-left: 20px;
+}
+
+.people-data-name{
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    background-color: #d2e6f9;
+    border-top-right-radius: 20px;
+    height: 40px;
+}
+
+.people-data-location{
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    border-bottom-right-radius: 20px;
+    height: 40px;
+}
