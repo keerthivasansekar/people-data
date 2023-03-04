@@ -1,4 +1,4 @@
-<div class="card shadow border-0 mt-3 people-data-container">
+<div class="card shadow bg-body-tertiary border-0 mt-3 people-data-container">
     <div class="row">
         <div class="col-1 people-data-number">
             <h1 id="sno"><?= $personCount ?></h1>

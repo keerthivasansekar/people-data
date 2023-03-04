@@ -23,7 +23,7 @@
             </div>
         </div>
         <div class="row overflow-scroll" id="people-data">
-            
+
         </div>
         <div class="row mt-3 text-center text-light">
             <strong>CURRENTLY <span id="persons_count">0</span> PEOPLE SHOWING</strong>
