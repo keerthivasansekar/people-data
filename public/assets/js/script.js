@@ -1,5 +1,6 @@
 $( document ).ready(function() {
 
+    getPerson();
     $("#add_person").click(function(){
         getPerson();
     });
